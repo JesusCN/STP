@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SimpleTaskPlanner">
+</Property><Property Name="Solution File" Value="C:\Users\Sheik\Documents\SimpleTaskPlanner\SimpleTaskPlanner.sln">
+</Property><Property Name="Date" Value="Friday, August 24, 2012">
+</Property><Property Name="Time" Value="13:00 PM">
+</Property></Properties><Event ErrorLevel="0" Project="SimpleTaskPlanner" Source="SimpleTaskPlanner\SimpleTaskPlanner.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SimpleTaskPlanner" Source="SimpleTaskPlanner\SimpleTaskPlanner.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SimpleTaskPlanner.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SimpleTaskPlanner.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SimpleTaskPlanner" Source="SimpleTaskPlanner\SimpleTaskPlanner.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

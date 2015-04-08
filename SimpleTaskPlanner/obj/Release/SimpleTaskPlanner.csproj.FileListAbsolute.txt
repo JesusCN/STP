@@ -1,0 +1,102 @@
+Z:\RoboCup\Source Code\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.exe
+Z:\RoboCup\Source Code\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.pdb
+Z:\RoboCup\Source Code\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\ResolveAssemblyReference.cache
+Z:\RoboCup\Source Code\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.Form1.resources
+Z:\RoboCup\Source Code\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.Properties.Resources.resources
+Z:\RoboCup\Source Code\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.csproj.GenerateResource.Cache
+Z:\RoboCup\Source Code\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\SimpleTaskPlanner.exe
+Z:\RoboCup\Source Code\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\SimpleTaskPlanner.pdb
+Z:\RoboCup\Source Code\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\Robotics.dll
+Z:\RoboCup\Source Code\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\Robotics.xml
+C:\Users\Sheik\Desktop\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.exe
+C:\Users\Sheik\Desktop\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.pdb
+C:\Users\Sheik\Desktop\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sheik\Desktop\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.Form1.resources
+C:\Users\Sheik\Desktop\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.Properties.Resources.resources
+C:\Users\Sheik\Desktop\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.csproj.GenerateResource.Cache
+C:\Users\Sheik\Desktop\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\SimpleTaskPlanner.exe
+C:\Users\Sheik\Desktop\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\SimpleTaskPlanner.pdb
+C:\Users\Sheik\Desktop\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\Robotics.dll
+C:\Users\Sheik\Desktop\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\Robotics.xml
+C:\Users\Sheik\Documents\Visual Studio 2008\Projects\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\SimpleTaskPlanner.exe
+C:\Users\Sheik\Documents\Visual Studio 2008\Projects\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\SimpleTaskPlanner.pdb
+C:\Users\Sheik\Documents\Visual Studio 2008\Projects\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\Robotics.dll
+C:\Users\Sheik\Documents\Visual Studio 2008\Projects\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\Robotics.xml
+C:\Users\Sheik\Documents\Visual Studio 2008\Projects\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sheik\Documents\Visual Studio 2008\Projects\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.Form1.resources
+C:\Users\Sheik\Documents\Visual Studio 2008\Projects\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.Properties.Resources.resources
+C:\Users\Sheik\Documents\Visual Studio 2008\Projects\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.csproj.GenerateResource.Cache
+C:\Users\Sheik\Documents\Visual Studio 2008\Projects\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.exe
+C:\Users\Sheik\Documents\Visual Studio 2008\Projects\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.pdb
+C:\Users\Yisus\Documents\Projectos Biorobotica\SimpleTaskPlanner2010\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.exe
+C:\Users\Yisus\Documents\Projectos Biorobotica\SimpleTaskPlanner2010\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.pdb
+C:\Users\Yisus\Documents\Projectos Biorobotica\SimpleTaskPlanner2010\SimpleTaskPlanner\bin\Release\SimpleTaskPlanner.exe
+C:\Users\Yisus\Documents\Projectos Biorobotica\SimpleTaskPlanner2010\SimpleTaskPlanner\bin\Release\SimpleTaskPlanner.pdb
+C:\Users\Yisus\Documents\Projectos Biorobotica\SimpleTaskPlanner2010\SimpleTaskPlanner\bin\Release\Robotics.dll
+C:\Users\Yisus\Documents\Projectos Biorobotica\SimpleTaskPlanner2010\SimpleTaskPlanner\bin\Release\Robotics.xml
+C:\Users\Yisus\Documents\Projectos Biorobotica\SimpleTaskPlanner2010\SimpleTaskPlanner\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Yisus\Documents\Projectos Biorobotica\SimpleTaskPlanner2010\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.Form1.resources
+C:\Users\Yisus\Documents\Projectos Biorobotica\SimpleTaskPlanner2010\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.Properties.Resources.resources
+C:\Users\Yisus\Documents\Projectos Biorobotica\SimpleTaskPlanner2010\SimpleTaskPlanner\obj\Release\ResGen.read.1.tlog
+C:\Users\Yisus\Documents\Projectos Biorobotica\SimpleTaskPlanner2010\SimpleTaskPlanner\obj\Release\ResGen.write.1.tlog
+Z:\RoboCup\Robot Apps\SimpleTaskPlanner2010\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.exe
+Z:\RoboCup\Robot Apps\SimpleTaskPlanner2010\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.pdb
+Z:\RoboCup\Robot Apps\SimpleTaskPlanner2010\SimpleTaskPlanner\bin\Release\SimpleTaskPlanner.exe
+Z:\RoboCup\Robot Apps\SimpleTaskPlanner2010\SimpleTaskPlanner\bin\Release\Robotics.dll
+Z:\RoboCup\Robot Apps\SimpleTaskPlanner2010\SimpleTaskPlanner\bin\Release\Robotics.xml
+Z:\RoboCup\Robot Apps\SimpleTaskPlanner2010\SimpleTaskPlanner\obj\Release\ResolveAssemblyReference.cache
+Z:\RoboCup\Robot Apps\SimpleTaskPlanner2010\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.Form1.resources
+Z:\RoboCup\Robot Apps\SimpleTaskPlanner2010\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.Properties.Resources.resources
+Z:\RoboCup\Robot Apps\SimpleTaskPlanner2010\SimpleTaskPlanner\obj\Release\ResGen.read.1.tlog
+Z:\RoboCup\Robot Apps\SimpleTaskPlanner2010\SimpleTaskPlanner\obj\Release\ResGen.write.1.tlog
+Z:\RoboCup\Robot Apps\SimpleTaskPlanner2010\SimpleTaskPlanner\bin\Release\SimpleTaskPlanner.pdb
+Z:\RoboCup\SourceCode\SimpleTaskPlanner2010 (source code 14022012)\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.exe
+Z:\RoboCup\SourceCode\SimpleTaskPlanner2010 (source code 14022012)\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.pdb
+Z:\RoboCup\SourceCode\BetaTest\SimpleTaskPlanner2010 (source code 14022012)\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.exe
+Z:\RoboCup\SourceCode\BetaTest\SimpleTaskPlanner2010 (source code 14022012)\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.pdb
+C:\Users\RoboCup\Desktop\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.exe
+C:\Users\RoboCup\Desktop\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.pdb
+C:\Users\RoboCup\Desktop\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\SimpleTaskPlanner.exe
+C:\Users\RoboCup\Desktop\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\SimpleTaskPlanner.pdb
+C:\Users\RoboCup\Desktop\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\Robotics.dll
+C:\Users\RoboCup\Desktop\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\Robotics.pdb
+C:\Users\RoboCup\Desktop\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\Robotics.xml
+C:\Users\RoboCup\Desktop\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\ResolveAssemblyReference.cache
+C:\Users\RoboCup\Desktop\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.Form1.resources
+C:\Users\RoboCup\Desktop\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.Properties.Resources.resources
+C:\Users\RoboCup\Desktop\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\ResGen.read.1.tlog
+C:\Users\RoboCup\Desktop\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\ResGen.write.1.tlog
+\\192.168.190.206\RoboCup\Testing\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.exe
+\\192.168.190.206\RoboCup\Testing\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.pdb
+\\192.168.190.206\RoboCup\Testing\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\SimpleTaskPlanner.exe
+\\192.168.190.206\RoboCup\Testing\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\SimpleTaskPlanner.pdb
+\\192.168.190.206\RoboCup\Testing\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\Robotics.dll
+\\192.168.190.206\RoboCup\Testing\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\Robotics.pdb
+\\192.168.190.206\RoboCup\Testing\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\Robotics.xml
+\\192.168.190.206\RoboCup\Testing\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.Form1.resources
+\\192.168.190.206\RoboCup\Testing\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.Properties.Resources.resources
+\\192.168.190.206\RoboCup\Testing\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.csproj.GenerateResource.Cache
+Z:\RoboCup\Testing\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.exe
+Z:\RoboCup\Testing\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.pdb
+Z:\RoboCup\Testing\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\SimpleTaskPlanner.exe
+Z:\RoboCup\Testing\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\SimpleTaskPlanner.pdb
+Z:\RoboCup\Testing\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\Robotics.dll
+Z:\RoboCup\Testing\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\Robotics.pdb
+Z:\RoboCup\Testing\SimpleTaskPlanner\SimpleTaskPlanner\bin\Release\Robotics.xml
+Z:\RoboCup\Testing\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\ResolveAssemblyReference.cache
+Z:\RoboCup\Testing\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.Form1.resources
+Z:\RoboCup\Testing\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.Properties.Resources.resources
+Z:\RoboCup\Testing\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\ResGen.read.1.tlog
+Z:\RoboCup\Testing\SimpleTaskPlanner\SimpleTaskPlanner\obj\Release\ResGen.write.1.tlog
+C:\Users\Robocup\Desktop\SimpleTaskPlanner - NeoJustina\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.exe
+C:\Users\Robocup\Desktop\SimpleTaskPlanner - NeoJustina\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.pdb
+C:\Users\Robocup\Desktop\SimpleTaskPlanner - NeoJustina\SimpleTaskPlanner\bin\Release\SimpleTaskPlanner.exe
+C:\Users\Robocup\Desktop\SimpleTaskPlanner - NeoJustina\SimpleTaskPlanner\bin\Release\SimpleTaskPlanner.pdb
+C:\Users\Robocup\Desktop\SimpleTaskPlanner - NeoJustina\SimpleTaskPlanner\bin\Release\Robotics.dll
+C:\Users\Robocup\Desktop\SimpleTaskPlanner - NeoJustina\SimpleTaskPlanner\bin\Release\Robotics.pdb
+C:\Users\Robocup\Desktop\SimpleTaskPlanner - NeoJustina\SimpleTaskPlanner\bin\Release\Robotics.xml
+C:\Users\Robocup\Desktop\SimpleTaskPlanner - NeoJustina\SimpleTaskPlanner\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Robocup\Desktop\SimpleTaskPlanner - NeoJustina\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.Form1.resources
+C:\Users\Robocup\Desktop\SimpleTaskPlanner - NeoJustina\SimpleTaskPlanner\obj\Release\SimpleTaskPlanner.Properties.Resources.resources
+C:\Users\Robocup\Desktop\SimpleTaskPlanner - NeoJustina\SimpleTaskPlanner\obj\Release\ResGen.read.1.tlog
+C:\Users\Robocup\Desktop\SimpleTaskPlanner - NeoJustina\SimpleTaskPlanner\obj\Release\ResGen.write.1.tlog

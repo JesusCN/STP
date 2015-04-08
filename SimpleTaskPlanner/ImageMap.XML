@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ImageMap>
+	<numberOfRegions>2</numberOfRegions>
+	<Regions>
+		<Region name="livingroom">
+			<numberOfNodes>2</numberOfNodes>
+			<Nodes>
+				<Node id="1">
+					<numberOfScenes>7</numberOfScenes>
+					<x>3.9988888888888887</x>
+					<y>9.905555555555555</y>
+					<Bearings>
+						<Heading id="0">0</Heading>
+						<Heading id="1">0.25</Heading>
+						<Heading id="2">0.46</Heading>
+						<Heading id="3">0.88</Heading>
+						<Heading id="4">1.02</Heading>
+						<Heading id="5">1.41</Heading>
+						<Heading id="6">1.76</Heading>
+					</Bearings>
+				</Node>
+				<Node id="2">
+					<numberOfScenes>5</numberOfScenes>
+					<x>2.8833333333333324</x>
+					<y>10.454444444444441</y>
+					<Bearings>
+						<Heading id="0">0</Heading>
+						<Heading id="1">0.25</Heading>
+						<Heading id="2">0.88</Heading>
+						<Heading id="3">1.45</Heading>
+						<Heading id="4">2.02</Heading>
+					</Bearings>
+				</Node>
+			</Nodes>
+		</Region>
+		<Region name="kitchen">
+			<numberOfNodes>2</numberOfNodes>
+			<Nodes>
+				<Node id="1">
+					<numberOfScenes>7</numberOfScenes>
+					<x>1</x>
+					<y>12.48</y>
+					<Bearings>
+						<Heading id="0">0</Heading>
+						<Heading id="1">0.25</Heading>
+						<Heading id="2">0.46</Heading>
+						<Heading id="3">0.88</Heading>
+						<Heading id="4">1.02</Heading>
+						<Heading id="5">1.41</Heading>
+						<Heading id="6">1.76</Heading>
+					</Bearings>
+				</Node>
+				<Node id="2">
+					<numberOfScenes>5</numberOfScenes>
+					<x>3.837</x>
+					<y>12.6</y>
+					<Bearings>
+						<Heading id="0">0</Heading>
+						<Heading id="1">0.25</Heading>
+						<Heading id="2">0.88</Heading>
+						<Heading id="3">1.45</Heading>
+						<Heading id="4">2.02</Heading>
+					</Bearings>
+				</Node>
+			</Nodes>
+		</Region>
+	</Regions>
+</ImageMap>

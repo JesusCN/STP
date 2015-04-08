@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using Robotics.Controls;
+
+namespace SimpleTaskPlanner
+{
+    public static class TBox
+    {
+        public static void Write(string text)
+        {
+            TextBoxStreamWriter.DefaultLog.WriteLine(0, text);
+        }
+
+        public static void Write(int priority, string text)
+        {
+            TextBoxStreamWriter.DefaultLog.WriteLine(priority, text);
+        }
+    }
+}
